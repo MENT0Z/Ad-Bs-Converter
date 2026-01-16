@@ -1,4 +1,4 @@
-# Ad-Bs-Converter
+# Ad-Bs-Converter (Android Library For Nepali Date Conversion)
 
 A lightweight Android library to convert and handle ad / bs data efficiently, designed for easy integration and minimal setup.
 
